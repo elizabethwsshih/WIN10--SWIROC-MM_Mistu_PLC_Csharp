@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MM_Mistu_PLC_Csharp">
+</Property><Property Name="Solution File" Value="F:\CODE\MM_Mistu_PLC_Csharp\MM_Mistu_PLC_Csharp.sln">
+</Property><Property Name="User Options File" Value="F:\CODE\MM_Mistu_PLC_Csharp\MM_Mistu_PLC_Csharp.suo">
+</Property><Property Name="Date" Value="2018年3月12日">
+</Property><Property Name="Time" Value="下午 14:37">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MM_Mistu_PLC_Csharp.sln" Description="File successfully backed up as F:\CODE\MM_Mistu_PLC_Csharp\Backup\MM_Mistu_PLC_Csharp.sln">
+</Event><Event ErrorLevel="0" Project="" Source="MM_Mistu_PLC_Csharp.suo" Description="File successfully backed up as F:\CODE\MM_Mistu_PLC_Csharp\Backup\MM_Mistu_PLC_Csharp.suo">
+</Event><Event ErrorLevel="0" Project="MM_Mistu_PLC_Csharp" Source="MM_Mistu_PLC_Csharp\MM_Mistu_PLC_Csharp.csproj" Description="Project file successfully backed up as F:\CODE\MM_Mistu_PLC_Csharp\Backup\MM_Mistu_PLC_Csharp\MM_Mistu_PLC_Csharp.csproj">
+</Event><Event ErrorLevel="0" Project="MM_Mistu_PLC_Csharp" Source="MM_Mistu_PLC_Csharp\Form1.cs" Description="File successfully backed up as F:\CODE\MM_Mistu_PLC_Csharp\Backup\MM_Mistu_PLC_Csharp\Form1.cs">
+</Event><Event ErrorLevel="0" Project="MM_Mistu_PLC_Csharp" Source="MM_Mistu_PLC_Csharp\Form1.Designer.cs" Description="File successfully backed up as F:\CODE\MM_Mistu_PLC_Csharp\Backup\MM_Mistu_PLC_Csharp\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MM_Mistu_PLC_Csharp" Source="MM_Mistu_PLC_Csharp\Program.cs" Description="File successfully backed up as F:\CODE\MM_Mistu_PLC_Csharp\Backup\MM_Mistu_PLC_Csharp\Program.cs">
+</Event><Event ErrorLevel="0" Project="MM_Mistu_PLC_Csharp" Source="MM_Mistu_PLC_Csharp\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\CODE\MM_Mistu_PLC_Csharp\Backup\MM_Mistu_PLC_Csharp\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MM_Mistu_PLC_Csharp" Source="MM_Mistu_PLC_Csharp\Properties\Resources.Designer.cs" Description="File successfully backed up as F:\CODE\MM_Mistu_PLC_Csharp\Backup\MM_Mistu_PLC_Csharp\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MM_Mistu_PLC_Csharp" Source="MM_Mistu_PLC_Csharp\Properties\Settings.Designer.cs" Description="File successfully backed up as F:\CODE\MM_Mistu_PLC_Csharp\Backup\MM_Mistu_PLC_Csharp\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MM_Mistu_PLC_Csharp" Source="MM_Mistu_PLC_Csharp\Properties\Settings.settings" Description="File successfully backed up as F:\CODE\MM_Mistu_PLC_Csharp\Backup\MM_Mistu_PLC_Csharp\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="MM_Mistu_PLC_Csharp" Source="MM_Mistu_PLC_Csharp\Form1.resx" Description="File successfully backed up as F:\CODE\MM_Mistu_PLC_Csharp\Backup\MM_Mistu_PLC_Csharp\Form1.resx">
+</Event><Event ErrorLevel="0" Project="MM_Mistu_PLC_Csharp" Source="MM_Mistu_PLC_Csharp\Properties\Resources.resx" Description="File successfully backed up as F:\CODE\MM_Mistu_PLC_Csharp\Backup\MM_Mistu_PLC_Csharp\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="MM_Mistu_PLC_Csharp" Source="MM_Mistu_PLC_Csharp\MM_Mistu_PLC_Csharp.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MM_Mistu_PLC_Csharp" Source="MM_Mistu_PLC_Csharp\MM_Mistu_PLC_Csharp.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MM_Mistu_PLC_Csharp.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MM_Mistu_PLC_Csharp.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MM_Mistu_PLC_Csharp" Source="MM_Mistu_PLC_Csharp\MM_Mistu_PLC_Csharp.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
